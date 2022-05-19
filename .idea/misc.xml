@@ -3,8 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/User/AndroidStudioProjects/Taichungbus/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Taichungbus/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Taichungbus/app/src/main/res/layout/activity_routeplanning.xml" value="0.21979166666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Taichungbus/app/src/main/res/layout/activity_routeplanning2.xml" value="0.21875" />
       </map>
     </option>
   </component>

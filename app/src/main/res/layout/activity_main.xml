@@ -14,16 +14,16 @@
         android:text="常用站牌"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@+id/button2"
-        app:layout_constraintVertical_bias="0.268" />
+        app:layout_constraintVertical_bias="0.46" />
 
     <Button
         android:id="@+id/button2"
         android:layout_width="250dp"
         android:layout_height="100dp"
-        android:layout_marginTop="224dp"
+        android:layout_marginTop="312dp"
         android:text="路線規劃"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.496"
