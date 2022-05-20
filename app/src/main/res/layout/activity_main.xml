@@ -11,7 +11,7 @@
         android:layout_width="250dp"
         android:layout_height="100dp"
         android:layout_marginTop="143dp"
-        android:text="常用站牌"
+        android:text="站牌"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.496"
